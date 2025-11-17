@@ -2,4 +2,3 @@ The parser class is designed to extract and clean key-value information from tab
 
 Here's an example of a table I parsed in table.txt.
 
-Translated with DeepL.com (free version)
