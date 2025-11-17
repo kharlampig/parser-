@@ -1,0 +1,35 @@
+#1> octopus octopus radio statistic
+Unknown command
+#1> octopus radio statistic
++----------------------+--------------------+--------------------+
+| PTP role            | master             |                    |
+| State               | started            |                    |
+| Uptime              | 02h 57m 51s        |                    |
+| Link time           | -                  |                    |
++----------------------+--------------------+--------------------+
+| Distance            | 0 m                | Link ID            | 0  |
+| TX power            | -9.8 / -9.9 dBm    | Temperature        | 54 C |
+| Remote TX power     | -                  | AMC strategy       | normal |
+| Device name         | V5_#2              | DFS                | off |
+| Remote device name  | -                  |                    |     |
+| Serial ID           | 379377             |                    |     |
+| Remote serial ID    | -                  |                    |     |
++----------------------+--------------------+--------------------+
+| Bandwidth           | 56 MHz             | DL quota           | - (auto) |
+| Frame length        | 1 ms               | Guard interval     | 1/16    |
++----------------------+--------------------+--------------------+
+|                      Downlink            |                    Uplink           |
+| Frequency           | 5656 MHz           | Frequency          | 5656 MHz       |
+| Capacity            | -                  | Capacity           | -              |
+| Throughput          | -                  | Throughput         | -              |
++----------------------+--------------------+--------------------+----------------+
+|                      Stream 0            | Stream 1           | Stream 0       | Stream 1       |
+| MCS                 | -                  | -                  | -              | -              |
+| RSSI                | -                  | -                  | -              | -              |
+| EVM                 | -                  | -                  | -              | -              |
+| Crosstalk           | -                  | -                  | -              | -              |
+| Frames              | -                  | -                  | -              | -              |
+| Errors              | -                  | -                  | -              | -              |
+| ARQ ratio           | -                  | -                  | -              | -              |
+| Tx attenuation      | -                  | -                  | -              | -              |
++----------------------+--------------------+--------------------+----------------+
